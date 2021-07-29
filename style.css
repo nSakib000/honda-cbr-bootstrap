@@ -1,0 +1,42 @@
+header{
+    background-color: #264653;
+}
+.purchase-btn{
+    color: #ffffff;
+    font-weight: 700;
+    background-color: #E77C40;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+img.gray-color{
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+.card-feedback{
+    border-radius: 5px;
+}
+.fa-star.filled{
+    color: #E77C40;  
+  }
+  .fa-star.empty{
+      color: #AEAEAE;
+  }
+.title{
+    font-weight: 700;
+    text-align: center;
+}
+.orange-color{
+    color: #E77C40;
+}
+.bg-newsletter{
+    background-color: #f2f2f2;
+}
+.subscribe-btn{
+    color: #ffffff;
+    font-weight: 700;
+    background-color: #E77C40;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
